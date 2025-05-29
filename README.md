@@ -19,6 +19,7 @@ cd payment_task
 python -m venv venv
 .\venv\Scripts\activate or  .\venv\bin\activate
 pip install requirements.txt
+cd config
 ```
 
 And repeat
