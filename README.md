@@ -31,4 +31,4 @@ python manage.py runserver
 ```
 ![alt text](post.png)
 ![alt text](get.png)
-
+![alt text](log.png)
