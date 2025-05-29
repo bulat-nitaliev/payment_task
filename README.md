@@ -29,4 +29,6 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+![alt text](post.png)
+![alt text](get.png)
 
